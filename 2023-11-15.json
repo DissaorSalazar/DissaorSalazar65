@@ -1,0 +1,26 @@
+{
+  "name": "Emma Rodriquez",
+  "age": 27,
+  "address": {
+    "street": "Nepje Court",
+    "city": "Acovomsi",
+    "state": "MI",
+    "zip": "65586"
+  },
+  "contact": {
+    "phone": "(326) 742-2541",
+    "servicePhone": "800993141"
+  },
+  "birthday": "1970-04-20T23:53:00.275Z",
+  "ip": "109.218.15.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Wabho oshuega ino zimmahuk te jiwkev fu jemevitoz oc wassu ilo daluho tewop tegir gajwonop firav. Le afoefe le ap kuvmunra mupmior jafunif lu hogluf lo genaje uto. Sucde eha zamocom ve ketvuwaj tolosa zez fezani wunib ucra tu cawsavhuh budi eho hewago. Udafa uduig nowo gatvonub razol nevegi imziwnej ozuhu bejpeklo mesise deke tihejate wec.",
+    "bio": "Laub kam car nal wisawgec gu letaduhev dibifdu bavrupne budico voze wota kahok. Elkamote ukawo tilhobku davo ad dorobi vuftemde vatav fa waniz ezaj fisvi utaegu rihefe. Ujacugkod ase mevedpuh obulu vecusi lu bes uk gintep logozodiz fopaap zosrungu mepgo ke binem zoflabal. Asate tovwu voriro epozi zaesine voc etgo ihtosoze zeddairu tiwonno pu dekgegab ripudub lebut vihu pugmuvun. Lareg sille ojcemec mu rikdo gohemlub beejebuk fun lujucen jo tiakabu vaso gu awrewu riboldof."
+  },
+  "apiKey": "691131bca2face107f20832c0f21bccc3e73e0b3fae6dd2faeacc3a8a587831b",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
