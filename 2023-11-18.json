@@ -1,0 +1,26 @@
+{
+  "name": "Christine Ford",
+  "age": 28,
+  "address": {
+    "street": "Dunwoc Turnpike",
+    "city": "Wacrelacu",
+    "state": "NY",
+    "zip": "37955"
+  },
+  "contact": {
+    "phone": "(727) 256-2087",
+    "servicePhone": "800937662"
+  },
+  "birthday": "1976-03-11T23:36:51.157Z",
+  "ip": "203.138.127.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Fatozbe esihocam vo filah tenrokewi gad hivlos suksa boca uru gu gul dowoke ocu iga lowi ob daj. Pot zimdofuh nekunij pa af vufon enedo gihcos zecafene vasaw ut fatu wabafmo vurzanod ato. Isa vochot tuam de taezjek ra vi nulnejos jahano oniepoopu mewap mubi el zanaz. Zat zig horos lotultef izma bisorjaw dol juruwopir ce jocpu monut kaga hij ojeziume agruba kul. Tahu ve ronijsap caiwizu jewit li tovpik ivsajedi naol gowawa tukzak sacorak fonupo ipjuiri.",
+    "bio": "Hauga peh ofunoj do hipeaso imu at tumma zul woriwar dut nakpah bauto. Pugihvad be tiriglo tampu jico ijderok osapifi oj gur vewvuibo taovoubo tej erosomor pijvobu ed wo ha. Kommipsi ri kondu amajoca rolo jajepsu baftuhjib balawer tafa ben ita ewulunvoc egowe ezer hobac."
+  },
+  "apiKey": "f684107695bca001abef630698d6a0d0268c0744f3e8a39de1cbe26613657b4f",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
