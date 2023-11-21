@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Chambers",
+  "age": 21,
+  "address": {
+    "street": "Upur Court",
+    "city": "Ipoekhal",
+    "state": "GA",
+    "zip": "15094"
+  },
+  "contact": {
+    "phone": "(300) 282-3003",
+    "servicePhone": "800222672"
+  },
+  "birthday": "1961-03-02T02:32:14.550Z",
+  "ip": "208.98.124.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Asmip olu wohgoce colkahsa nifo vep tizvin iroic rahaum wis job lowi kuk mahe natito ripenug pup. Epiase ibapizcol fohto wukrezgud oputo gur hezori ofuji com jaw ujaov kof ve tuebir osapo nuefme la ba. Padbelpi aliutu bejpe pu uwtab enporul tujarzu tuj howtegav arwa ter taz vihep maiti uplek reg ha ibkerguz. Putritbu letho behargiv wanopwa rovnaj zuro rapu weed mokitgog zu lozah ge. Vew zozben ru vucojhav unehu ucbepbe boga jafat vigsobfa keru sed mup tobnowi tedavvo bagunnob sa. Pubhu muulesiw mo vadohe rurcu roife piptauv pedanuw gam burdejmi kuf unusucup nirra doduviv esi pi. Cizlujer gidav zi avrumeja ori egajer zoig eto luvjicul riwed vevanade jalom.",
+    "bio": "Coajoci giw wemikan gefussa bamal uzumod aresa selkafih ob awo pow covfiwa ulic bev silu. Vim nedisabot we tumis puk tutkig aga ozuluzzod bi il ricuw nadilsuv woc wazzeruz. Rejenujun pe tavwub cu up uduc tilteg edemimez ojako azjoiti kukhewwel ejuza mij sac cuplewgon lil rammuwi. Gal nir ifa agitu lev gu mil pur bobi foh wilak ju pinaz. Avuok ajiv bahwo sabobji jatpahloc okhowi du faf gajov sevewpaz cepel oci hokdu. Jerag palonfe pogwieh od jisagaj cuwuzba wowbu wase noz aginul uwi hun ra fis ga."
+  },
+  "apiKey": "2fe96789894b64e796d83dbc64f2fd8164e56fbfc695eb45cf7e0b6c08b94f90",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
