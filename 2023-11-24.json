@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Gilbert",
+  "age": 37,
+  "address": {
+    "street": "Ozaid Terrace",
+    "city": "Dutoncav",
+    "state": "NJ",
+    "zip": "04731"
+  },
+  "contact": {
+    "phone": "(889) 625-3443",
+    "servicePhone": "800865439"
+  },
+  "birthday": "1970-11-06T01:03:05.625Z",
+  "ip": "169.219.231.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Socun sofa fufsien ezanikpuc galuwece fehdazu lihto wiv zoluep kied vac tafafzif we. Vow ictifot bobi nijboc gi ohualcab ohsahvu ve sozta woh javeluvi dakun eju. Azinewe mu tikeke zerlo zofpir va karekir cuba hanmuhe eh nolhumuj feksoz zifwuhzu parboc upafasvur cuszuzav vekri.",
+    "bio": "Idi noppoled cuki evalo arawen ru cawpocwup fik majnuwlaj gaop fokop kaoho. Lihata dafhog edi ipa wibi hor liahi tabwuh giweru fo fe ka begpocol rusron popjada kopfe ef. Ur rooto teneru fotuv cobco werogu si caka edzutwu vomnu lez ovu satosza ri vi gakdih."
+  },
+  "apiKey": "0a5ff3d7a6cca188a791fa4ca69e74e03d24e9fa2ac4c070de6e43cf8eaecaa2",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
