@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Sullivan",
+  "age": 52,
+  "address": {
+    "street": "Five Mill",
+    "city": "Isirimad",
+    "state": "MD",
+    "zip": "90896"
+  },
+  "contact": {
+    "phone": "(686) 870-3337",
+    "servicePhone": "800633165"
+  },
+  "birthday": "2000-06-13T19:48:10.140Z",
+  "ip": "198.84.154.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Noskafa pewfuhim ro jipopmor runir cozazib vasuvib rulaad saltime uvjefon duzappi teppage kafak boigcag ona. Nedbefad weleim pa lutibtuf bu iz liawa ruhfagso fatow getucuh rihacga himbuca jiszeb abeukahut sioso. Kiibeifa sadu zomvi caruvuget vupsik enu foni dijudcib petdic guzaz biwop wan za nuvdik bijpos fi ta.",
+    "bio": "Octan tojivi cojiwujof labanfoz loujuzo jeulibu wusufum ezhezse fa jotnuwvi ifu vo cujimhij saw. As fuda tawiiwi ni fep hes jedokpol mepolun piderig duf mif kiwacjag. Zebalut afeig onku ziesil op be pepva ikno ronkinnab no zifgupo ufloij desso. Oksiojo ho madofdup pamsate renimze karlopi kuv me liw koj gitefab docciho rijolfej tinputu gegliflo gow ramelja."
+  },
+  "apiKey": "c3563d17b7ea7d1fd69f9ae105e5edfcedd3bb2b516df002e3a549bce452bad2",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
