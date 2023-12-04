@@ -1,0 +1,26 @@
+{
+  "name": "Harry Curry",
+  "age": 55,
+  "address": {
+    "street": "Lalej Ridge",
+    "city": "Likagsaw",
+    "state": "SC",
+    "zip": "42191"
+  },
+  "contact": {
+    "phone": "(232) 603-6714",
+    "servicePhone": "800133457"
+  },
+  "birthday": "1990-03-09T09:22:38.091Z",
+  "ip": "30.47.204.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Gov ur ewuuba vaviruk jobir hoccir ir zusunken ospi camlicu doshun hifun ulsazak gat. Rug on vuldi ta zu de paj ora umi bimajki ettitdez pi ce ondo zoz. Nokjutnib ozaumilal orvi gosuwla higru jesamdu lokubhe la ku ur locho zulusav limecit fakmo vo emiocet lepmurdur hifnul. Ruk jefuntek visit kub aj ojtum fop zeidaja relad fontezin lot luterit uvewabto. Hisej bo folgiut zilgijes finawun bodbaad sef vegimuk tih rezsuwuh fu budodo. Veufojut ge pivazi gindo ofirafa ci vu atiol duwike cima uj ika.",
+    "bio": "Ol zahosbid el calur awfum upvejco hav ewifab wa guz vir zop da godce ribjekdu. Tegel guzkeja feluzjer fa jaljohri garusol lalebi si ba cuzruc row co vilfiznu muv bapto datnilom jahsijfe. Neegso govjinbe re osa difa jovzi ice kis ledsi womkum liuz kasa."
+  },
+  "apiKey": "6ca91d3bf084db874f9be78e62c659eceaa1177f043a001978db74992ce6c666",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
