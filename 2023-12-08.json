@@ -1,0 +1,26 @@
+{
+  "name": "Lena Silva",
+  "age": 32,
+  "address": {
+    "street": "Bojbu Manor",
+    "city": "Ahojobip",
+    "state": "IL",
+    "zip": "17998"
+  },
+  "contact": {
+    "phone": "(811) 618-6432",
+    "servicePhone": "800772296"
+  },
+  "birthday": "1996-07-14T22:50:26.752Z",
+  "ip": "36.238.31.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka riwo pupu waow bunhinil efigab rochebok ocuwi negha efo bopvutjuh hir kuh cibeb. Ut nunavojo vig ilkadku momoh me embegop cem cojgo ocoop man ikatajfu iveri vanew ibrerum surione. Wucol upzu sekob dufwi tical sofu undu zoas velnipur buiwu feajor vumumi osuwidob ewa hefu zirorpi faehla jipcit. Getib corog binvo hem wosemun leva sumja ez aboli esiken gelwesho sawde jesezo kad.",
+    "bio": "Buzzabzaz ko nulhu sahja jigulhi farwir docnidfi culo golag jepibame dav wolu dazci udvo. Nesbeza bazsinti felah uvwuzoj eje coh jejzaver dunatpi hojrowo buw wumhige ugifem ko wek evi filudaf se. Umeopza wisiwci ni amko hod jikukiru rafusaime meocuwal lobegor zuwowvuz bawzi aboreran na. Co masazka aczab vozoni epomicre muposop leguhe ninzu sidih ekuatu ed ava gulumo je os nifomor kijgil. Vihanar al narceg uwurum uka maglorop juheb afsausa aha uciirigej fos na ne ig ezo."
+  },
+  "apiKey": "6df43ba076d891374da21935324cc4686afb01f8602847db37c42e78379d71b1",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
