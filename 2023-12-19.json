@@ -1,0 +1,26 @@
+{
+  "name": "Flora Lewis",
+  "age": 31,
+  "address": {
+    "street": "Duhipo Square",
+    "city": "Howguje",
+    "state": "NH",
+    "zip": "43100"
+  },
+  "contact": {
+    "phone": "(870) 344-7736",
+    "servicePhone": "800621732"
+  },
+  "birthday": "1977-06-19T20:05:08.640Z",
+  "ip": "132.198.224.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Dun unelo meuwzoz luptemmo rewavun avlihvo agupowcu pamegijo vu bol avedgev poh hupom mosecnup josi hujjovra lobeda. Zolzuopa na lom veldeeju dot fultucubu aneez niw seero arabopaf gef suhopa osovha apo fi rer legot. Wiweh bu nuc tep tajenwa fe zoluc udeca paf me netabuc dos cerev ne sitid.",
+    "bio": "Hiscoeli niohe romlo riszopeja umu kedaonu rudmav li pu girnejew be un jaewavan mez womos. Sel zajeh imlibi pa ha sub hiiwoci za hoide vugiz giwtek cod us bekcakuv. Ne sat lumol sesamguj givan caoznad pupcioho hatejuja sif ojefib hiigi fo vihsum idatale."
+  },
+  "apiKey": "5be90e9a45c07a8c6d2c278899a70e7e71bcd53de87b350d9ca75a940c421926",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
