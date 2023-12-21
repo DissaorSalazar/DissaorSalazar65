@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Neal",
+  "age": 32,
+  "address": {
+    "street": "Ulwol Avenue",
+    "city": "Zejgeec",
+    "state": "RI",
+    "zip": "82242"
+  },
+  "contact": {
+    "phone": "(622) 594-7014",
+    "servicePhone": "800446955"
+  },
+  "birthday": "1990-02-07T21:01:38.046Z",
+  "ip": "206.241.239.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Meijave kev omu zozni cefizihok co elacukwig atadu serotbal dodrugko ubibikeg umjekom juhusar binnidki gohuri. Meg cuzaole wur bejimiogo raewlag lis kokrawka wihe koz wodva cez wu baphirek. Zur gur ifi dezurim kespi zacjoema ap ci wa faroj noma satzur tem viw buzu bagzirej. En zi ni bauti tieho pabvevhin ivkop ge azog mowwu kader ovebolem le daf pakepehad evuw onesiv. Coappog soh sar ganewe apurivob kaswovata sewpaji sat zacnag avade wa anahtu ulcegi oclud.",
+    "bio": "Cewa ni pe pu sofuco muclodnaz nok hoju he biedfa jekah awpoc jolo zilhuwto ke. Wisej mih omuibo kanace jihaz od uzu subzela ip inoawu sorum poopga pu in. Eji te akru nasu vitbawzeb ikuhad ifvu or pih hec albis rateko somre."
+  },
+  "apiKey": "1297e66afe2fc76adf4eb93b70fbbc4c422add8995ad809a0c951a7d2a64113b",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
