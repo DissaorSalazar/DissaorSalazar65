@@ -1,0 +1,26 @@
+{
+  "name": "Jose Wong",
+  "age": 29,
+  "address": {
+    "street": "Uvkus Mill",
+    "city": "Efkama",
+    "state": "DC",
+    "zip": "31949"
+  },
+  "contact": {
+    "phone": "(300) 298-6852",
+    "servicePhone": "800732598"
+  },
+  "birthday": "1961-10-31T12:21:07.588Z",
+  "ip": "7.234.226.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Tise in seh bichuoj icowul kora no bit jejse cud vamiz hed sul gihiw rog lu gof zugeb. Vikita jubucural hasicac mamgot tomzoziwi po amosamiw dofni bipmujnew ab ha ri eki pagez gul uztan cup. Alo ozmufuw supina mugivuaku hapu tulsoduc he nuskuvci mutsewni pi ujaalo ig guwubo de pifitenu naeca. Cipgukmeb zein suhol ovcotij moco pini co regidli gor halvo efawlew gosaba.",
+    "bio": "Vojiv de ebida modza we duviab vuovini je sabo tig uz lo ithu. Po gi gigaati goes nidav bas ise un kaadu amoce tebdufga suinloc guiju. Zudof keheci coso ro fomvej ehi zutefef uzdejlil wid vesehas uvaipuga odrevbo ki. Kem wevde uczan aka lojan unhujih uswafhik recpeg fidvak nogguszan houte dud rudaosu. Zodeha hibi mekim taf nukbusig ve deceuj kiv pim og foha mepcupgid co arku zik bak ipvik. Cen ve fizicnep teged wofda tet pagawde bogur do piuce gatdad tuvke ma vernarto aj."
+  },
+  "apiKey": "83fd38759df642c9d211afe5830ea288762479f2197f0fd03c53f1280a9d074a",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
