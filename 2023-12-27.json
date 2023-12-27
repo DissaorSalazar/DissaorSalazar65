@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Vega",
+  "age": 19,
+  "address": {
+    "street": "Miol Court",
+    "city": "Eminicle",
+    "state": "IN",
+    "zip": "85752"
+  },
+  "contact": {
+    "phone": "(327) 598-3190",
+    "servicePhone": "800167138"
+  },
+  "birthday": "2002-05-14T22:26:10.773Z",
+  "ip": "252.176.187.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Balogu ow hadu gahe keosace bi ar lucsuh huzciv toagajoh azitugros nazed. Gufiiv emulo ugowuhop dohif navatat ni juvop hamlofuh cud miwabuwal jimurko zurgikkih corufaise. Abro ji waw woke fif av cisiefi ali luci wipimju ji istul zuc fomki bowitowid ku asoetivat cimpuh. Guh ruvki bof tegabitu pes acfuoje mo etuwe duvnuefo ki adgehim ja ze rihvo wopso ge vorifi sop.",
+    "bio": "Lohjus hizralhol cive kotab id tu somkoz om tot bezokre jicpe ne. Joc zita ij rekahpom liv ew daci egubabu nohzu peem osifa bipo vamit wu dabrap sozugfi. Defara le evkira duekofes no refefav rupamme dig ovhej wu fofipi hen duhi atuzefop dab loflomcow genrueb."
+  },
+  "apiKey": "5ddd61ce3e36499dfc023d5c3c795c29df6f031fe6f9d40136f2426a5e1be58a",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
