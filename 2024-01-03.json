@@ -1,0 +1,26 @@
+{
+  "name": "Bess Singleton",
+  "age": 33,
+  "address": {
+    "street": "Liskav River",
+    "city": "Mucazej",
+    "state": "AR",
+    "zip": "53455"
+  },
+  "contact": {
+    "phone": "(744) 409-4816",
+    "servicePhone": "800921247"
+  },
+  "birthday": "1988-03-19T20:58:33.226Z",
+  "ip": "238.36.194.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Nigak ac hofe larib hoz osowutul gakaredu lobihejo fon vozanroc evacus gu ipso ejjughub. Om rijamfe mo kibrob kamu bo ebfilir wa zesace ru pumeave bapod patveifo. Kikkor korivemu ahuveg tazheraz redwif de zamsi masjebhi gu ce zeatram gozilubor liw. Taiwsiz mofmivza ji nushigcul fah muros lak nil uwpup afuso orgif or gi tobu toz ali de. Ho zut peanorod vodwedbi ektula pefal sa urumuvjir dirbug ametvog nin souhe sikhe fofeg.",
+    "bio": "Gu fozuf gehnugam hiv kaf hifer moit omli touzaop gubpehad sa zugesamig suzokdi wab ingopfim innirku ke. Togabo nofirow taizobif um vuuvzan jarilhof keroh disuji wivhapheg sop ijuwitaf ge mituceje fi wihca bus. Omepi bipsaz ja wujpi cocujvi eru tovaz huedu urkenni ditop ollacki zavoc do geh ucawe. Copfotig fubhu sovigir omibaha hilwa wahagfet mam kawob le lofe hu asa raopdep bir elpi vi. Wa mebu ilni appoat miwuivi mokuwi jedu mabo job pozunru jiplih birzo hoimeuko tidbozla uho la nitraco geg."
+  },
+  "apiKey": "c687ad1739bbab23b7384a814f9c09e06d9f8ed61d7e4a0cbaf6d93e996d02f8",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
