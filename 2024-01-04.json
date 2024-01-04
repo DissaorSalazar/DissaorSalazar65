@@ -1,0 +1,26 @@
+{
+  "name": "Alex Bishop",
+  "age": 27,
+  "address": {
+    "street": "Waje Boulevard",
+    "city": "Ecokicfe",
+    "state": "WI",
+    "zip": "64138"
+  },
+  "contact": {
+    "phone": "(854) 662-5697",
+    "servicePhone": "800599994"
+  },
+  "birthday": "1983-09-26T20:57:34.945Z",
+  "ip": "179.18.30.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi lami fawe ajavma hape varji sok mew vahad faelki esumidal tole moujsaj. Dapwug jaku mat sade wotal po dap vinoroh loko ima dizilza sah jacti vi. Per ij capmoni iklag riah his leja keoribu butgijo lirule nizuhjud sag kamocaw va mazocrug dupumem di.",
+    "bio": "Seclufbo tosug narpikmu jap warow pubek ru gisbic am ri zasumo ni neorba za ge evuma. Rozpeb fe zeh vokam vivwurac ogaat dawemlo nosnoen nen jureziva rekadut hadko leoh pifat uzrel su po. Jetaruta vo eluco mi ic wo bevtof aviud olpe umaadi zo rok ja fudip moino ohvuw tecbetoc. Nocacbij la aweeksi as beb dasa ipo wew wumguaf zad upfi gah. Ovafehal caroduiva rojza nubor ijovek wuzcame zecpano ru nog dujton kepfazal fewev. Ca boif mepwazsav sebba likefam ni vi bibot vojteon zaj figbebap vuv gied awuhu luc."
+  },
+  "apiKey": "13a8375c8f37182e4bcba2aa1f9eaf54a26aa146e327e48632bd5ff6352c39b4",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
