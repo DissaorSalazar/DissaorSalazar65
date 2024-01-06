@@ -1,0 +1,26 @@
+{
+  "name": "Mae Saunders",
+  "age": 35,
+  "address": {
+    "street": "Zuro Circle",
+    "city": "Zucapu",
+    "state": "DE",
+    "zip": "70982"
+  },
+  "contact": {
+    "phone": "(329) 500-6386",
+    "servicePhone": "800123181"
+  },
+  "birthday": "2000-06-16T14:37:04.646Z",
+  "ip": "194.27.50.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Fevagfu niwin gokhij ewumuka ful icduhin cecop gijkoj ro suce sapovuc mezdej wilofgu uhona lod. Pinirav otife ehaan ejale hof uvibej gunra kubujuli tit ahagat lezikdom jew ewna segmihfa. Igva ganlup gof ciwwag ig li poinemoz ko kobba nelobuci deup ve corobuwe. Kenikhas ru fe vat sofkaku jodfo tuchu otougado vibmi vasotgud lo cisce jikocu id. Wa ketjut wonzaj pufpuwni fe koz ecosuar toljataw usvuvo zajsun gafridgi apletgok enod.",
+    "bio": "Zirji orugu le mez sici kub cahzama vacigpa cu micpo tu ic ati fomuva dew. Atse ebig biza pu dove dapusube gamu hauzi rovupnor ur diur julunfas ora. Teup onajiznac mo mad ro iji sisi fabantok omi cepelavi go onoliecu tog avolo sebgi vezu oja awaoh. Survahegi fozwupa nohogfi fisikag eha fatdu lenzubuso peviwmiv ozvo rem opa sakbidwem meoho. Iva wivibidub cifudjof bejjat hipzohdo ho penifen vesvo paso muogaves bungosoh ju mo ze reab."
+  },
+  "apiKey": "0947009280da91789d1665addc1542ff9e2f25c9c9520fc59c9575a9a1d8d50c",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
