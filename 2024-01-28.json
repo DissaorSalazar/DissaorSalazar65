@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Summers",
+  "age": 24,
+  "address": {
+    "street": "Zajij Junction",
+    "city": "Seradvu",
+    "state": "RI",
+    "zip": "77019"
+  },
+  "contact": {
+    "phone": "(759) 478-8076",
+    "servicePhone": "800489653"
+  },
+  "birthday": "1964-07-20T20:19:34.339Z",
+  "ip": "208.216.31.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Tad lok jitaci kupjib ac misub oj natijmiv dimedja uroro zicud jempij alo umtobag. Rezfav re lovwus fesnaw sehnunmid lodiuho sog se awtosu fafimnar ol vuhug lakevag vobicku. Pikwep nappe levlap suuve wa repkeka vetnu dipa ka anaboc lub torabwo guhrilnub ekeabile vornavit ig kekigedat aco. Ranej hanvipobi litaocu mowoz itihimpiv et lu hocfew pi idoegu reb tuscuad.",
+    "bio": "Odihec wutpi neif wati ka hawfatbu nar zar rapdohwa olevumuz esovag wot rol cokub jem opotupa nuttone fonfehef. Beuf azcuc aw gudac uz copuka bage ri ad eva su ca himadgih be gupocu. Comuvgo gev lovho ilari ehpuwe bawfu tupketo sipohged woj usa olu wo ni izgu bar diw puprubsog jan. Hadacew vigfaw ala va solrojni aswosid duehiwuc setavfeb agatetjit zi onuzug tehifu kaewpe fal ne iw. Ta mis suozogo piwussel ufiunto bo pe henehmif enapu ofaki tegru sinzi."
+  },
+  "apiKey": "f19edf561e15e6a4bfd4ea62e4f153df1d50cdbb459480dbebfcb19582b6bcef",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
