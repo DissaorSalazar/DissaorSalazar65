@@ -1,0 +1,26 @@
+{
+  "name": "Jon Hunter",
+  "age": 38,
+  "address": {
+    "street": "Riteh Avenue",
+    "city": "Kijewju",
+    "state": "TX",
+    "zip": "37794"
+  },
+  "contact": {
+    "phone": "(254) 400-7761",
+    "servicePhone": "800611246"
+  },
+  "birthday": "1998-10-25T13:42:22.914Z",
+  "ip": "47.169.128.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Roctah rizog vadpo boja ezhuiva fula ra za kop imo vih icewzo teg ecmahme tuvkehko cotasa vunwo. Luerbud be re eno fuceli ajacaw gatbisamu pewca gacakep teweos ti ilacupe ijaorteg evufad. Ob mum sulufo so weum owpaja hani tonkozvi saururo horwapfe habhojdug fu to lab tepubiput.",
+    "bio": "Lod ci ru raumi ba wetwar sateb cibkufiv wet nakwa teehanu covdoto nefilabe. Wounara peb re icsa ro fomuk jel umadedid se hivuwte ze huj kisel. Biwce ubufe lawdigno pok siwa zujtikhic okaku legudva va etaborzu basein ho zi top nizoawe elaamo rag."
+  },
+  "apiKey": "03684ae797f362b21125ccce337bf49630a1bf0d6a488002c3a80b28987a6423",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
