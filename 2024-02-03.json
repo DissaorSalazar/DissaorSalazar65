@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Matthews",
+  "age": 39,
+  "address": {
+    "street": "Balgo Pike",
+    "city": "Regdejan",
+    "state": "SD",
+    "zip": "88844"
+  },
+  "contact": {
+    "phone": "(334) 243-9069",
+    "servicePhone": "800411865"
+  },
+  "birthday": "1987-09-24T08:28:41.872Z",
+  "ip": "169.83.66.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi kuaw ikokej huime suj gemba hiplulo kerdeedi narohukiv uhujun li gi wevon. Cuf te zuuj bek naspuv fu fivrov hozfe balgovjun tuce vaguza guficfoz sojo. Cu go wokid esa ate nawfahub ahehemroh sotwih pipu co utle wosbam udla ha.",
+    "bio": "Wu hokefaku wojpunih ennop hin wukifwes mi sem kishod cuser lamera bidimed mutuposo. Co icu houce og fipif zepsojuw ihawot kur hokabu lu ojawehoz dohraup kosupe lurudbod. Gezmigsu icazicit bek webnos nurwebvo pumdu madfis zahlo fejiv ro ewuzalcif cewpebaw zovnu wis li torpazler. Rebersa cuc mocamma celomora lasubcik siavu avinibbo ed ocise latohun zejrit juci vakuwpus fucorwu dosdeera. Durihuv nopgi ziilo ometan kidu iz den vomuditi udikap gepoja efeenu anakuwot dasedfug iv ti."
+  },
+  "apiKey": "a5175f581ccab23500f6a5deb241647d88d8ee91a94b3a37cba0282dc63db63d",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
