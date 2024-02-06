@@ -1,0 +1,26 @@
+{
+  "name": "Alex Casey",
+  "age": 46,
+  "address": {
+    "street": "Odefi Avenue",
+    "city": "Onzepa",
+    "state": "CO",
+    "zip": "37767"
+  },
+  "contact": {
+    "phone": "(462) 948-7482",
+    "servicePhone": "800734159"
+  },
+  "birthday": "1961-09-16T02:13:25.030Z",
+  "ip": "135.102.240.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Jifoeka vav wucas evirohub putgitem noutreh edne vu rimkajlad ulari pumviraw ufecohi lakijne. Oropa hu suh if irijahe uz iv huhzubuv dalule lemfafjo gi lotbuc. Kin ihpirgoh vugmofi ler omufo uzsigcah nopal wabape nagemo zohon usene mual. Lohmic mufij adetu elce imnonroh bul tasjadur eha uwu nutoz hiv nusuin gut.",
+    "bio": "Rekoje saujeaf ecju pilordu fabma sujekep nebafas fan vur dogiune dief fe tiufoawi. Ju ub upca fiof guhawego dazif nut sitij nudpej kirhurew cilopik joziboug faaha fe hapwimpo. Nujfif peeciri waw gudohha ew rub cuozufo def cu jidi hataki fu satefpu."
+  },
+  "apiKey": "de0b72409cb15c2bae54e40a07b514098883b7b8dadbc34bc3e4036f23027da7",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
