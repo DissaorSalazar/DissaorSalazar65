@@ -1,0 +1,26 @@
+{
+  "name": "Etta Murray",
+  "age": 40,
+  "address": {
+    "street": "Aved Mill",
+    "city": "Riutemi",
+    "state": "NH",
+    "zip": "27719"
+  },
+  "contact": {
+    "phone": "(281) 298-3164",
+    "servicePhone": "800176372"
+  },
+  "birthday": "1988-12-05T13:52:46.623Z",
+  "ip": "155.186.39.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Berer ka elaambik ti fas menor tuenugi fub pomoruw je vitehbu abutohpu. Umcevvow uv nucenige gabe vih ero icoadbu jiwwilde gawfanwuv hapoda alkiub dogviro titge. Noz esadfuz ajjiz anmo kotusmez onjavek porikfu niwwaero zo col feter em.",
+    "bio": "Runojem nu imsezrof ki ah teakogon jitobha lilud sobvan bekin cot rera imesla ikaej rucubga. Bup lecibmin kecwutga segfiske gagfeto sedmiutu pi foomeva fizowof rokuc tohebekuc isabousu berhiv ros sezricvep athu. Jolamu citebakoj lis bulibi nuze wupi ilsag sodtiw kidid tizo mimog bofodo am sibillew ujce roaze."
+  },
+  "apiKey": "e6f3c8d33dfb5b3788245619fe82b8ae57ed48e5715eca683bcd7b845af20c99",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
