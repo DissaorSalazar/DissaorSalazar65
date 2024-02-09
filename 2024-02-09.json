@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Lowe",
+  "age": 34,
+  "address": {
+    "street": "Movid Pike",
+    "city": "Dadguli",
+    "state": "IL",
+    "zip": "06333"
+  },
+  "contact": {
+    "phone": "(812) 349-1031",
+    "servicePhone": "800419851"
+  },
+  "birthday": "1968-04-03T06:49:29.535Z",
+  "ip": "56.21.104.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Irmekbas usbelu etacine imka avezajin fis wafuz ta uvi garote wikuc mub. Ti luzgo mikarwup la muf bid vurtaj vehapibes na nu coha ri behab zidekut. Zisab to vahce udegik lidje tibi cim rugug omvib edku ererem suf ci. Pi vacvi zu vukap api mu togezme rikge olazos sofjijhal jedajep jasmat tojar.",
+    "bio": "Wedral mava dew rujual wutasri ved uk jathe avnob fij cak wegobe osiji opinicuz cowew matgoder laz. Lallasa wuzkiw rug lusol naifgo afiipa nug title imgipa fecuk teeduli fabi. Op fotin jemonbak onija elujamdo omoan rowet epcu ugcumi bumannil oci gake kandet witav fufiw. Lozi ku sukih ange vobic sawa ci enolim ha nuwhi korvuhha lunoslo fidi je arvor etbivvu."
+  },
+  "apiKey": "7787f07209d2cf584cc5594f47876cbe6cd9adf85364ac45b4fba9a91a12d3b2",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
