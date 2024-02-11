@@ -1,0 +1,26 @@
+{
+  "name": "Craig Anderson",
+  "age": 34,
+  "address": {
+    "street": "Irece Highway",
+    "city": "Gulewli",
+    "state": "CO",
+    "zip": "31693"
+  },
+  "contact": {
+    "phone": "(565) 768-7825",
+    "servicePhone": "800975742"
+  },
+  "birthday": "1965-05-04T23:23:41.003Z",
+  "ip": "165.221.240.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Lazosi pug dilmok foskem owute ojobopot sugfilus cad kapatmoz izecwus zinci vilocgon. Izlel fu hagobmi zirzu gibajzip pokaco mo gi wibga dosiz nusvuvzuw bebeb ag. Ba coupzek ahiileon gutef ivopu eha candemfab di ibino tipnemlaf ohfekga je alga dokikuv.",
+    "bio": "Eja naf mab sopaf pusjewpos fumlo jut lig ad re oreco vumem nebfiha zufma avoka os dulkune bu. Cuvuthe ud fev unet keb wad jahduid weh hotji we mi lun fijran adpe ikpirez jukoc. Niv cusdeje gikwad suhhicvi novhibtid hu ho goug mar sa vo naduse rawvo refta do nig mifraek dozaolu. Ruli suw iv jiwbupu potako gidak pewnuva misice evoniccu azaseoma goeziil hegbevpi etinem."
+  },
+  "apiKey": "84006f4c8687b81d1c25b9e7cbdb6c9a57d1377a6ba0aadac06fe28780dc5c3e",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
