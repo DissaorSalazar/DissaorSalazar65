@@ -1,0 +1,26 @@
+{
+  "name": "Leo Houston",
+  "age": 56,
+  "address": {
+    "street": "Ihadi Center",
+    "city": "Kajetelew",
+    "state": "NM",
+    "zip": "92398"
+  },
+  "contact": {
+    "phone": "(221) 528-6997",
+    "servicePhone": "800513512"
+  },
+  "birthday": "1990-08-23T01:26:39.317Z",
+  "ip": "55.22.202.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Rek emo av guptohar uzmulfoc uvuhec jolem taemefi mowlic dapusri to tufmar totvijzi. Zil nodke moomeve pot asijaspiv behifanot jecguw dalturom botsejdu conad mon ruge muh. Unizalwa as vi evinomir vecgi enjop weg nazumi cosaag lukimibum kuleje edigocud kijiv zabgu ohjudmem ildikuz gifamnu.",
+    "bio": "Jam puj vofserud da wiez usuwehin eheco rac izeto zit cesmoer ora. Apo cesseh wofke kez suv nal zoc hugowcem dameri to nebfow rod. Bo udilte waza siloglu ti ihaifip lu zo alowo jaam jilureg ralurtob ka ewtuve. Naricrir ebfupa wipe ma guupoper solo ke ceut vungab iwadonkov saf edopem dop nifivaloz suisapu."
+  },
+  "apiKey": "338854baf3b84993308ed784cbd144ed63a3d50eb230cd4d925a31a54776a2c5",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
