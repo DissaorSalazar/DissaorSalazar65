@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Barnes",
+  "age": 65,
+  "address": {
+    "street": "Tezo Street",
+    "city": "Nizatza",
+    "state": "NY",
+    "zip": "39104"
+  },
+  "contact": {
+    "phone": "(425) 251-2822",
+    "servicePhone": "800864257"
+  },
+  "birthday": "1959-08-08T11:53:11.575Z",
+  "ip": "103.130.91.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Hazem mugim pa ke janlo wek meje hoh de ibresca ru valiruk ped la eguice. Jok ubegu wurraguz recebole maothem koedaso ahanez era mab wivli orpalal mofe. Buedoru nofuoku hamupa defabig rob lusinrej eb ajoomege kas upituwe uw jikihuj fo vice lebwamcan.",
+    "bio": "Jamgesi molzu kipake ruhoppo ceba pauwe po bobpiv herukci vi suczulu digaz opujaf. Eveal ipineuhe ti tuve cejic uwita taaku hibo wout firupu tab mik. Osnol werzo beejtov fishe afupo efsawum noscur zopek per sigrevfos viwmab iccev ontekmaf fakavo bemamer. Wengiz god as ujmo ve ju fe icu hamepgeh tirinfo certem cituwibi boghofzac mi ciwekvac warato. Tutgo jim gajpabvug fem em am ahi om luadmoj ba gem rusveacu rojebek te mubu di ge."
+  },
+  "apiKey": "87134eb6e7337fac1a1f28857ffc5a5b0709135fd52937e67869cfcf7c3abd67",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
