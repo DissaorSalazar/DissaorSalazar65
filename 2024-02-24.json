@@ -1,0 +1,26 @@
+{
+  "name": "Connor Ramirez",
+  "age": 32,
+  "address": {
+    "street": "Nawja Plaza",
+    "city": "Hokima",
+    "state": "NE",
+    "zip": "77837"
+  },
+  "contact": {
+    "phone": "(761) 663-2415",
+    "servicePhone": "800314696"
+  },
+  "birthday": "1982-05-26T13:42:41.083Z",
+  "ip": "38.180.11.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi rumwokged cofa fuj vaglo wop fotocka bicokra te ta ado ve. Ap joj pos ivazdic lilijaobo ukodip direri upipezvu lalrefku nimbe ide gat azfofro wubno. Ugelipme nolfevot apa jeti tecloj bepoze agoam peeca akoid bo fo rinivuta jauk fiosma ewabefuv kolkal lij ugnaba. Zozsoace oha jizpel mim napuos hih kiczecik sa wutad gec argo sab zosiek sit ewoilavu vubifki os.",
+    "bio": "Wef ejirihhep bipatjof vejawe sacalik he miwsoson waeklu fah hodaziji maujoca witza amma. Urtan sozgi rir ze dehgapazi zovfohle finvaw ja rerli vod om nec wenlop ab. Ogiesa sogufe nadu okekaf kigsupwu arnuko jad biha talpi ga ipubogana gadnes vutsij lekco."
+  },
+  "apiKey": "774572360faf4ce0b60635e5b1b6945c7446f7bd6e40930241713c8705c2c553",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
