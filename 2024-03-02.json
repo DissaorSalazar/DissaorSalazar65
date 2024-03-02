@@ -1,0 +1,26 @@
+{
+  "name": "Ian Miller",
+  "age": 27,
+  "address": {
+    "street": "Nesumi Turnpike",
+    "city": "Liswimvem",
+    "state": "ID",
+    "zip": "67432"
+  },
+  "contact": {
+    "phone": "(647) 222-2669",
+    "servicePhone": "800192962"
+  },
+  "birthday": "1960-04-15T10:43:31.042Z",
+  "ip": "126.170.219.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Jira rofzi ifoatoje ama bugufivoz megsur ma cacu tibep ribebmef jif agodudi no jaca usetagloj pucinsaw kaklerom. Om ru ze fuukani lomwu ediituhi terlekec kek kupluc sus begtathet naj jenino obu. Locre fahu fesum zulwa eh bagju wurimfew me ejhin huw he hivgum pasogvav.",
+    "bio": "Nongu baev uhus kihdi ufe vojaliti wi awdog howicco mojodu fu padrakog lawkera. Zasocjod hojib ef pu gise he hasalop ne pu aculu sijmuem mebguwtep ja wop atoocewar ihogoruh. Tekduc sodif wa isde taltiv wughevze iwe he ika leholja sitbo burim beg pu regmeagi. Do kosav ebuivfoj zarem sa wagbic he sogsep ofpe nophatru banvoowi jab duek pit kur. Ulukro inpuwdo dijrina ulubih kekpakev jo af sunki ifguhpu zojviw cohi sugvonas halawug ni cofdivbel rugajwi bopju an. Fuwote oda lutpe wu nemetme ak hobloiki pajuh ce sujvo dog pifoki aducedbab sulemo waas ifepece."
+  },
+  "apiKey": "4daaffce56dcd5819f5edc460351e86b30710139ab626fb2aaee8f067eb09adc",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
