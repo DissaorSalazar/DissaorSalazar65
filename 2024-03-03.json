@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Griffith",
+  "age": 24,
+  "address": {
+    "street": "Punjaj Court",
+    "city": "Falhezo",
+    "state": "GA",
+    "zip": "78301"
+  },
+  "contact": {
+    "phone": "(271) 930-3067",
+    "servicePhone": "800834494"
+  },
+  "birthday": "1995-02-19T19:36:04.472Z",
+  "ip": "31.118.71.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Dig mopregal teh heg keko rorzi fo ze ohi vijevi opomogu doijo ilho nen notuzvo rufima mifduwon. Totjozmo muja dih wire ormis ne zo kuwuen se el buvij zi. Lera bev zij zamop juztotu do omu fifo zogi acce zozpuj ewuoku iru hucgekhi de.",
+    "bio": "Bewnoh vugaju kamir rabbo to toplojnok ihadowe ihi ki fe venev liwiz ummofha puv avo. Jowrisan togodot asdi pifugse musof jeluduc hepibupo gatul ba nu iwahawuko komomlu do ve vafeptur upi pulsivon gausroh. Pow puzec naj juz iddusup hok zioh powiheb ta utidi tep of koshuat kucil disiil vedweizo femo."
+  },
+  "apiKey": "b596bded2411265fe23e5e06155dc73e891ab886605d39a928379e660e465b09",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
