@@ -1,0 +1,26 @@
+{
+  "name": "Clifford Lewis",
+  "age": 59,
+  "address": {
+    "street": "Geje Mill",
+    "city": "Zehkedne",
+    "state": "OK",
+    "zip": "30025"
+  },
+  "contact": {
+    "phone": "(210) 788-4053",
+    "servicePhone": "800524973"
+  },
+  "birthday": "2004-03-25T16:51:57.608Z",
+  "ip": "33.40.166.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Uwi zen pi tagibare hokfuf rajuk roon abikoal iciwooka wu lotas buji. Po cizusug hako vulmi larac da nofovja dohko eton ta ig gacru ne. Alogu sogup fencamvi pu toifibo vagfoid fumo gab fu miwokvat gobfekir wewel.",
+    "bio": "Dan cozuh fobe fewam ev tam hauc caj butrupid wihme edomor niopca kalugpi vajaf supag bi. Ti ila ran riv ci so wiricoc guvuano tuwelofot osirlo jigalcob pihegas jef tib biwi. Goz lidwobde racbe towvop recat ha sap zeuw jap vejpegal eje sirem ro zummi zorag ijadac."
+  },
+  "apiKey": "184fd8ac4ff16fec549b326e1f55551fb5389aed7ff508397ff3af320a53bb42",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
