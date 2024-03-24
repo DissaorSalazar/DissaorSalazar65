@@ -1,0 +1,26 @@
+{
+  "name": "Brian Parks",
+  "age": 30,
+  "address": {
+    "street": "Aturu Turnpike",
+    "city": "Ejujepde",
+    "state": "WA",
+    "zip": "07923"
+  },
+  "contact": {
+    "phone": "(739) 394-1214",
+    "servicePhone": "800618129"
+  },
+  "birthday": "1977-04-29T04:42:58.582Z",
+  "ip": "66.245.129.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Huezatef usu roni pe cad neb sup cuakice wup hi wuep kapadam jeodo wovoz zeccal. Ivnajovo ge hu an vupeini opaelage femipjo asiogufi tohakafe iroapohi gatkud huji. Iri zerjiwar wu citi co po ho lejaat ha medagepu jafuteku gu.",
+    "bio": "Cog fi rujouj vu fosuig devefven lahdesvun jaodose baawteh wah sup vaew opaoceul camifo. Hubfoifo eci akuboom gav batazpaw tuta wol ho wickonep fef ro ifiagime macci on puvne femluwig liphot wirjumma. Ofjulo jiwu hanni midris igohitu rec keuhage jezo sumwevic dif ontog zinrad ja neb fehkav. Mu nifad semtacdik jonwe gupos luhopwu zepuhvu pahobijaf cufok moor sipa zarizopi do huncevus jowhu. Mat cohri kokna tu aganisunu mo cucbutbir sized kuzuk cusozab kuije vutigza rokrav enupupo. Zalu hesmate ekikuc livu sipnejwe canzusgac ku low jaro emuldan urfi zabvi uhiloli tosiwev hacecu roh bujaag bimje. Ogwipsop gewaze esubure vimju vahednu sopi ladjeg wimsiz nifbo ecvajdi ubamuri rabwak woca ekuwif obojic cew."
+  },
+  "apiKey": "e5db9268bcb940e03e385334720f07a11e23cb2f21bfe1d99e83e1b0bb474b0c",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
